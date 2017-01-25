@@ -1,0 +1,6 @@
+Antes de trabajar:
+
+- Recuperar los cambios desde el repositorio con Team -> pull con el botón derecho sobre el proyecto
+
+Después de trabajar:
+- Enviar los cambios desde local al repositorio con Team -> Commit con el botón derecho sobre el proyecto
